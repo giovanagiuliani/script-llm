@@ -1,0 +1,23 @@
+[
+    {
+        "fruta": "limão-eureka",
+        "nome_cientifico": "Citrus ×limon (L.) Osbeck",
+        "etimologia": "A palavra \"limão\" deriva do árabe ليمون (laimun), que por sua vez tem origem no persa لیمو (limu).",
+        "origem_do_fruto": "O limão (Citrus ×limon) é nativo da Ásia, provavelmente das regiões do nordeste da Índia (Assam), norte de Mianmar ou China. É considerado um fruto híbrido, resultado do cruzamento entre a laranja-amarga (Citrus ×aurantium) e a cidra (Citrus medica). Foi introduzido na Europa, especificamente no sul da Itália, por volta do século II d.C., mas sua ampla distribuição e cultivo só se estabeleceram entre os séculos X e XII.",
+        "manejo_e_cultivo": "O limão-eureka é uma das variedades mais cultivadas e populares, caracterizada por produzir frutos durante todo o ano e possuir poucos espinhos. Prefere climas subtropicais e tropicais, sendo sensível a geadas. Necessita de solos bem drenados e ligeiramente ácidos, com exposição solar plena para um bom desenvolvimento. A rega deve ser regular, especialmente em períodos de seca, para garantir a hidratação da planta. A poda é importante para manter a forma da árvore, remover galhos secos ou doentes e estimular uma boa produção de frutos."
+    },
+    {
+        "fruta": "maracujá",
+        "nome_cientifico": "Passiflora campanulata Mast.",
+        "etimologia": "O nome do gênero 'Passiflora' deriva do latim 'passio' (paixão) e 'flos' (flor), uma alusão feita pelos missionários jesuítas aos elementos da flor que remetiam simbolicamente à Paixão de Cristo. O epíteto específico 'campanulata' é do latim e significa 'em forma de sino', descrevendo a morfologia das flores, embora esta etimologia detalhada para o epíteto não esteja explicitamente na página da espécie na Wikipédia.",
+        "origem_do_fruto": "A espécie Passiflora campanulata Mast. é nativa do Brasil.",
+        "manejo_e_cultivo": "Informações detalhadas sobre o manejo e cultivo específicos da espécie Passiflora campanulata Mast. não estão disponíveis na Wikipédia."
+    },
+    {
+        "fruta": "abacaxi",
+        "nome_cientifico": "Ananas comosus (L.) Merril",
+        "etimologia": "A palavra 'abacaxi' tem origem na palavra tupi 'ibacati', que significa \"fruta cheirosa\". O nome alternativo 'ananás' vem do tupi-guarani 'naná', que significa \"excelente fruta\". O nome científico 'Ananas comosus' tem 'Ananas' derivado do tupi 'naná', e 'comosus' (do latim) que significa \"franja\" ou \"copa\", referindo-se à coroa de folhas do fruto.",
+        "origem_do_fruto": "O abacaxi é uma fruta tropical originária da América do Sul, especificamente da região entre o sul do Brasil e o Paraguai. Era cultivado por povos indígenas muito antes da chegada dos europeus. Chegou à Europa no século XVI e, posteriormente, foi introduzido na Ásia e na África.",
+        "manejo_e_cultivo": "O abacaxizeiro é uma planta herbácea perene. A propagação é geralmente feita por rebentos laterais, coroas do fruto ou mudas produzidas por cultura de tecidos. A planta prefere climas quentes e úmidos, com temperaturas entre 22°C e 30°C, e requer solos bem drenados, ligeiramente ácidos (pH 4,5 a 6,5). O ciclo de cultivo para a primeira produção de frutos varia de 18 a 24 meses. Práticas de manejo incluem adubação, controle de pragas e doenças, e a indução floral para uniformizar a colheita. É uma cultura de grande importância econômica em países tropicais como Tailândia, Filipinas, Brasil, Costa Rica e China."
+    }
+]
